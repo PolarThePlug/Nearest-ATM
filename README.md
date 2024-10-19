@@ -14,4 +14,4 @@ Be sure to check out our other weapon packs
 
 
 # JOIN OUR DISCORD FOR MORE UPCOMING FREE RELEASES 
-[![discord invite](https://cdn.discordapp.com/attachments/1179953789516664923/1287758898585141248/discordbannerinvite.png?ex=66f2b66e&is=66f164ee&hm=281783449434e50603d27e8b27b8a0cc7283b02b7b2c400020930c5f382f63aa&)](https://discord.gg/PjNgP4tAv9)
+[![discord invite](https://cdn.discordapp.com/attachments/1179953789516664923/1297271524340011078/discordbannerinvite.png?ex=671551c1&is=67140041&hm=a33d0a975ea519b186ab6b4d1d6f2b15618ff6e62da6fc55c7d0012ff9ceefb0&)
