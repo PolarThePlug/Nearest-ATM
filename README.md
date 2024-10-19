@@ -1,6 +1,12 @@
 # Standalone FiveM Script
 This script works for all frameworks
 
+Use this script for players to easily find the nearest atm
+
+More atms can be added, as of now all the default atms are included already in the config
+
+Command to use to find the nearest atm is in the config.lua
+
 # Dependencies 
 None
 
@@ -14,4 +20,4 @@ Be sure to check out our other weapon packs
 
 
 # JOIN OUR DISCORD FOR MORE UPCOMING FREE RELEASES 
-[![discord invite](https://cdn.discordapp.com/attachments/1179953789516664923/1297271524340011078/discordbannerinvite.png?ex=671551c1&is=67140041&hm=a33d0a975ea519b186ab6b4d1d6f2b15618ff6e62da6fc55c7d0012ff9ceefb0&)
+![discord invite](https://cdn.discordapp.com/attachments/1179953789516664923/1297271524340011078/discordbannerinvite.png?ex=671551c1&is=67140041&hm=a33d0a975ea519b186ab6b4d1d6f2b15618ff6e62da6fc55c7d0012ff9ceefb0&)
